@@ -40,6 +40,8 @@ general: https://georgefabish.com/category/nand2tetris/
 
 simulador: https://inworks.ucdenver.edu/jkb/iwks3300/Docs/Hardware%20Simulator%20Tutorial-JKB.pdf
 
+tutorial (de los más completos hasta con mapas de karnaugh): https://songkeys.github.io/posts/nand2tetris/
+
 **Diario del proyecto con vídeos y con fechas en plan blog**
 https://learningnerd.com/daily-learning-93/
 
