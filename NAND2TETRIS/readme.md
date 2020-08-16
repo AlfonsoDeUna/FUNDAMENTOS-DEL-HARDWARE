@@ -34,6 +34,8 @@ https://coggle.it/diagram/V44LvUNht0Q0X1Yh/t/nand2tetris
 
 puertas lógicas:  https://dev.to/tttaaannnggg/nand2tetris-the-magic-of-nand-4lj5
 
+puertas lógicas: https://danielmorgan.co.uk/blog/2017-11-16-nand2tetris-part-1/
+
 general: https://georgefabish.com/category/nand2tetris/
 
 simulador: https://inworks.ucdenver.edu/jkb/iwks3300/Docs/Hardware%20Simulator%20Tutorial-JKB.pdf
