@@ -38,6 +38,9 @@ general: https://georgefabish.com/category/nand2tetris/
 
 simulador: https://inworks.ucdenver.edu/jkb/iwks3300/Docs/Hardware%20Simulator%20Tutorial-JKB.pdf
 
+**Diario del proyecto con vídeos y con fechas en plan blog**
+https://learningnerd.com/daily-learning-93/
+
 ### implementaciones de nand2tetris en FPGAS
 https://hackaday.io/project/160865-nand2tetris-in-verilog-part3-verilator-and-sdl2
 FPGAWARS Juan González
