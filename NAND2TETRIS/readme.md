@@ -6,17 +6,26 @@ Cada semana os entregaré una ficha con ejemplos y ejercicios junto con la misi�
 ### Entrega
 Crear un repositorio en Github donde anexamos el código y la teoría de cada prueba.
 
+### Libro
+https://sevko.io/articles/nand-2-tetris/
+
+Libro online:
+https://zhongchuyun.gitbooks.io/nand2tetris/content/
+
 ---
 ### Links
 
 **Artículos iniciales**
 
 * https://medium.com/@seandlg/what-nand2tetris-has-taught-me-about-computers-and-more-importantly-about-learning-aebc84af3030
-
 * https://www.luisguillen.com/posts/2018/01/opinion-nand2tetris/
 
 **Repositorios**
 
 * https://github.com/VanTamNguyen/Nand2Tetris
 * https://github.com/havivha/Nand2Tetris
+
+**Artículos y temas para entender las diferentes partes**
+
+puertas lógicas:  https://dev.to/tttaaannnggg/nand2tetris-the-magic-of-nand-4lj5
 
