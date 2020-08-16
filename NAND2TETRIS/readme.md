@@ -1,9 +1,19 @@
 # NAND2TETRIS: VAMOS APRENDER CÓMO FUNCIONA UN ORDENADOR HACIENDO NOSOTROS UNO DESDE CERO
 
+### Objetivos del curso
+
+* Conocer los bloques funcionales y físicos de un ordenador
+* Conocer las interacciones entre los diferentes bloques funcionales
+* Aprender cómo funciona un ordenador
+* Comprender como funciona el software y hardware
+* Aprender ensamblador
+
 ### Cada semana realizaremos una entrega
 Cada semana os entregaré una ficha con ejemplos y ejercicios junto con la misión final de cada semana
 
-### Entrega
+### Porcentaje de la nota final del trimestre: 40%
+
+### Entrega Final del Proyecto
 Crear un repositorio en Github donde anexamos el código y la teoría de cada prueba.
 
 ### Libro
