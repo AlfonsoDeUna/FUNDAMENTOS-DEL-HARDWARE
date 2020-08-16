@@ -16,5 +16,7 @@ Crear un repositorio en Github donde anexamos el código y la teoría de cada pr
 * https://www.luisguillen.com/posts/2018/01/opinion-nand2tetris/
 
 **Repositorios**
-https://github.com/VanTamNguyen/Nand2Tetris
+
+* https://github.com/VanTamNguyen/Nand2Tetris
+* https://github.com/havivha/Nand2Tetris
 
