@@ -20,12 +20,12 @@ Debes presentar la prueba práctica un documento donde explicas detalladamente l
 
 *Deberás entregar los siguientes pantallazos en Classroom en un documento Google docs y adjuntarlo a la tarea*
 
-Pantallazo donde se vea la creación del contenedor.
-Pantallazo donde se vea el comando que crea la nueva imagen.
-Pantallazo donde se vea la imagen subida a tu cuenta de Docker Hub.
-Pantallazo donde se vea la imagen de la descarga en consola ( la subida a Docker Hub).
-Pantallazo donde se vea la imagen del contenedor ejecutando el comando nmap (de las gathering tools)
-Pantalalzo donde se vea la bajada de la imagen y la creación de un nuevo contenedor.
+* Pantallazo donde se vea la creación del contenedor.
+* Pantallazo donde se vea el comando que crea la nueva imagen.
+* Pantallazo donde se vea la imagen subida a tu cuenta de Docker Hub.
+* Pantallazo donde se vea la imagen de la descarga en consola ( la subida a Docker Hub).
+* Pantallazo donde se vea la imagen del contenedor ejecutando el comando nmap (de las gathering tools)
+* Pantalalzo donde se vea la bajada de la imagen y la creación de un nuevo contenedor.
 
 ## OPCIÓN 2 CREA UNA IMAGEN PARA CREAR CONTENEDORES EN NGINX Y VISUALIZAR PÁGINAS WEB ESTÁTICAS
 
